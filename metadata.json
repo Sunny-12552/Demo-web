@@ -1,0 +1,6 @@
+{
+  "name": "UrbanNest PG",
+  "description": "Premium single-property PG accommodation demo website in Marathahalli, Bengaluru with interactive photo tour, rooms & rent, weekly food mess menu, and visit scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
